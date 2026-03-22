@@ -133,6 +133,12 @@ https://youtu.be/268bE0KNoDs
 
 ---
 
+## X / Linkedin Post Links
+
+https://x.com/Akash045/status/2035705578031591432 - X Post
+
+https://www.linkedin.com/feed/update/urn:li:activity:7441470541519241216/ - LinkedIn
+
 ## Future Improvements
 
 * Expand utility coverage (gap, grid, transitions)
