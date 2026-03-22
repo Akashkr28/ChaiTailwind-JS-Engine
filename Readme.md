@@ -122,7 +122,7 @@ It helped me explore DOM traversal, pattern parsing, and dynamic styling in a pr
 
 ## Demo Video
 
-[](https://youtu.be/268bE0KNoDs)
+https://youtu.be/268bE0KNoDs
 
 
 ---
